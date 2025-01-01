@@ -45,7 +45,7 @@ The Sales Dashboard Project demonstrates the power of data visualization and ana
 - Monitor key metrics and trends efficiently.
 - Gain deeper insights into customer preferences and purchasing habits.
 - Optimize product strategies based on performance and profitability.
-This project highlights the value of leveraging technology to transform raw data into actionable insights, making it an essential tool for businesses aiming to improve operational efficiency and achieve sustainable growth.
+- This project highlights the value of leveraging technology to transform raw data into actionable insights, making it an essential tool for businesses aiming to improve operational efficiency and achieve sustainable growth.
 
 
 
