@@ -4,8 +4,7 @@ The Sales Dashboard Project is designed to provide a comprehensive overview of s
 
 ## Overview:-
 The Sales Dashboard Project is a Power BI-based solution designed to visualize and analyze sales data effectively. The project includes three key dashboards:
-
-* Sales Overview Dashboard
+- Sales Overview Dashboard
 - Customer Details Dashboard
 - Product Details Dashboard
 
